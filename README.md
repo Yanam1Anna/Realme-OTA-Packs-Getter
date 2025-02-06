@@ -86,7 +86,7 @@ realme-ota -r 1 RMX3300 RMX3300_11.F.00_0000_000000000000 5 10010111
 
 ---
 
-### NV_ID表:（引用源：[[Global/EU] Collection of firmware files for Realme GT2 Pro](https://xdaforums.com/t/global-eu-collection-of-firmware-files.4478153/)）
+### NV_ID表:（引用源：[[Global/EU] Collection of firmware files](https://xdaforums.com/t/global-eu-collection-of-firmware-files.4478153/)）(所有机型通用)
 
 |              国家/地区               |     区域缩写     | NV_ID (HEX) | NV_ID (BIN) | ROM 类型 | 注释  |
 | :----------------------------------: | :--------------: | :---------: | :---------: | :------: | :---: |
